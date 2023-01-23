@@ -1,0 +1,19 @@
+body{
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.container{
+    padding:1rem;
+    width:15rem;
+    height:17rem;
+    display:flex;
+    flex-direction: column;
+    gap:3rem;
+    border:red solid 1px;
+    
+    
+}
